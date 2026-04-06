@@ -1,8 +1,8 @@
-# 🧪 Micro Lab Simulator: Guided Titration
+#  Micro Lab Simulator: Guided Titration
 
 This project is a Unity-based simulation of a titration workflow designed as part of a technical assessment.
 
-## 🎯 Features
+##  Features
 
 - Step-by-step guided UI workflow
 - Enforced order using Next button + action validation
@@ -12,7 +12,7 @@ This project is a Unity-based simulation of a titration workflow designed as par
 - Initial and final readings with volume calculation
 - Reset functionality
 
-## 🧩 Workflow
+##  Workflow
 
 1. Start Simulation
 2. Fill Burette
@@ -22,20 +22,20 @@ This project is a Unity-based simulation of a titration workflow designed as par
 6. Endpoint detection
 7. Result display
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Unity (3D Core)
 - C#
 - Unity UI (UGUI)
 
-## ▶️ How to Run
+##  How to Run
 
 1. Open project in Unity
 2. Load `MainScene`
 3. Press Play
 4. Follow on-screen instructions
 
-## 📹 Demo
+##  Demo
 
 https://drive.google.com/file/d/1LioalC0Yy3zjeljdUPXA8so_9fLTZNQs/view?usp=sharing
 
