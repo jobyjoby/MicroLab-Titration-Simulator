@@ -10,7 +10,6 @@ This project is a Unity-based simulation of a titration workflow designed as par
 - Interactive stopcock (slider-based flow control)
 - Endpoint detection with color change
 - Initial and final readings with volume calculation
-- Reset functionality
 
 ##  Workflow
 
